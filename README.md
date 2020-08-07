@@ -1,7 +1,7 @@
 Hypothesis Testing
 ==============================
 
-aAnalyzing whether there's a significant difference between Apple's App Store and Google's Play Store in regards to app ratings.
+Analyzing whether there's a significant difference in app ratings between Apple's App Store and Google's Play Store.
 
 Project Organization
 ------------
